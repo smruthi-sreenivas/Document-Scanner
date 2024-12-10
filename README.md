@@ -62,11 +62,11 @@ The scanned document is transformed into a rectangular, top-down view:
 
 - **Input Image:**
 
-![Input Image](input_image.jpg)
+![Input Image](input.jpg)
 
 - **Output Image:**
 
-![Output Image](output_image.jpg)
+![Output Image](output.jpg)
 
 ## Contributing
 
