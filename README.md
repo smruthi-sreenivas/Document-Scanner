@@ -24,8 +24,8 @@ This project implements a **Document Scanner** application using Python and Open
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Document-Scanner
-   cd document-scanner
+   git clone https://github.com/yourusername/document_scanner
+   cd document_scanner
    ```
 2. Install the required dependencies:
    ```bash
